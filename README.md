@@ -2,7 +2,6 @@ LBWordCount
 ===========
 
 Launchbar Extension for counting words, lines, and characters
-
 ![Example Screenshot](https://raw.githubusercontent.com/Nosrac/LBWordCount/master/Resources/example.png)
 
 Ways to Use
